@@ -1,0 +1,20 @@
+From lgramajo en empagua.com  Fri Jul 20 20:06:23 2012
+From: lgramajo en empagua.com (Luis Fernando Gramajo)
+Date: Fri, 20 Jul 2012 12:06:23 -0600
+Subject: [Openthes-es-general] Consulta PHP
+Message-ID: <50099E1F.308@empagua.com>
+
+Saludos Lista!
+
+Acabo de bajar el dump de mysql, pero los quiero molestar si fueran tan 
+amables de proporcionarme el codigo php para poder consultar la base.
+
+Muchas gracias.
+
+-- 
+Luis Fernando Gramajo P.
+Redes y Telecomunicaciones
+Sistemas de Información EMPAGUA
+www.guatewireless.org
+
+
